@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.2] 2022-07-15
+### FIxes
+
+- Update `includes/navigation.html`
+  - the file was using login guard from `Flask`
+
 ## [1.0.1] 2022-06-12
 ### Improvements
 
