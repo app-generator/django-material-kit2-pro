@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.1] 2023-01-12
+### Changes
+
+- Fix `Render` Deployment 
+
 ## [1.0.0] 2023-01-12
 ### Changes
 
