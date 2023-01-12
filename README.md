@@ -1,12 +1,12 @@
-# [Django Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/)
+# **[Django Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/)**
 
 **Django** starter styled with **[Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 🛒 [Django Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/) - `Product page` (contains payment links)
-- 👉 [Django Kit 2 PRO](https://django-material-kit2-enh.appseed-srv1.com/) - `LIVE Demo` on Render
+- 🛒 [Django Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/) - `Product page` (contains payment links)
+- 👉 [Django Material Kit 2 PRO](https://django-material-kit2-enh.appseed-srv1.com/) - `LIVE Demo` on Render
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br /> 
@@ -102,21 +102,15 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-![Theme Material Dashboard PRO - Main (Dark-Mode active), crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695422-7863697f-e6c5-4b08-b395-422074e399df.jpg)
+![Django Theme MKit 2 PRO - UI Component.](https://user-images.githubusercontent.com/51070104/212049122-e98794ef-7487-492b-919b-32118145fd34.png)
 
 <br />
 
-> [Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro) - `Calender` Page
+> [Django Theme MKit 2 PRO](https://appseed.us/product/material-kit2-pro/django/) - `Rental page`
 
-![Theme Material Dashboard PRO - Calender Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695529-f4cea8ee-68d9-4658-bb54-110ff530c8da.jpg)
-
-<br />
-
-> [Django Admin Material PRO](https://github.com/app-generator/django-admin-material-pro) - `Automotive` Page
-
-![Theme Material Dashboard PRO - Automotive Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695692-e681b3c8-fca8-4ebf-8803-2795bcd8f7d1.jpg)
+![Django Theme MKit 2 PRO - Rental Page](https://user-images.githubusercontent.com/51070104/212049863-b33f921b-1e7f-4f96-a675-14f649aa46eb.png) 
 
 <br />
 
 ---
-**[Django Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/)** - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+**[Django Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/)** - **Django** starter provided by **[AppSeed](https://appseed.us/)**
