@@ -14,7 +14,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Mkit 2](https://github.com/app-generator/priv-django-theme-mkit2-pro) - `PRO Version`
+- ✅ `Design`: [Django Theme Mkit 2](https://github.com/app-generator/django-theme-mkit2-pro) - `PRO Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
   - ✅ **All Pages** available in for ordinary users 
