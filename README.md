@@ -6,7 +6,7 @@ The product is designed to deliver the best possible user experience with highly
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
 - 🛒 [Django Material Kit 2 PRO](https://appseed.us/product/material-kit2-pro/django/) - `Product page` (contains payment links)
-- 👉 [Django Material Kit 2 PRO](https://django-material-kit2-enh.appseed-srv1.com/) - `LIVE Demo` on Render
+- 👉 [Django Material Kit 2 PRO](https://django-material-kit2-enh.appseed-srv1.com/) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br /> 
@@ -14,7 +14,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Mkit 2](https://github.com/app-generator/priv-django-theme-mkit2-pro) - `PRO Version`
+- ✅ `Design`: [Django Theme Mkit 2](https://github.com/app-generator/django-theme-mkit2-pro) - `PRO Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
   - ✅ **All Pages** available in for ordinary users 
